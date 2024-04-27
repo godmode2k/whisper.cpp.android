@@ -1,0 +1,878 @@
+
+-----------------------------------------------------
+ALL
+-----------------------------------------------------
+af, 아프리칸스어
+af_NA, 아프리칸스어
+af_ZA, 아프리칸스어
+agq, 아그햄어
+agq_CM, 아그햄어
+ak, 아칸어
+ak_GH, 아칸어
+am, 암하라어
+am_ET, 암하라어
+ar, 아랍어
+ar_001, 아랍어
+ar_AE, 아랍어
+ar_BH, 아랍어
+ar_DJ, 아랍어
+ar_DZ, 아랍어
+ar_EG, 아랍어
+ar_EH, 아랍어
+ar_ER, 아랍어
+ar_IL, 아랍어
+ar_IQ, 아랍어
+ar_JO, 아랍어
+ar_KM, 아랍어
+ar_KW, 아랍어
+ar_LB, 아랍어
+ar_LY, 아랍어
+ar_MA, 아랍어
+ar_MR, 아랍어
+ar_OM, 아랍어
+ar_PS, 아랍어
+ar_QA, 아랍어
+ar_SA, 아랍어
+ar_SD, 아랍어
+ar_SO, 아랍어
+ar_SS, 아랍어
+ar_SY, 아랍어
+ar_TD, 아랍어
+ar_TN, 아랍어
+ar_XB, 아랍어
+ar_YE, 아랍어
+as, 아삼어
+as_IN, 아삼어
+asa, 아수어
+asa_TZ, 아수어
+ast, 아스투리아어
+ast_ES, 아스투리아어
+az, 아제르바이잔어
+az__#Cyrl, 아제르바이잔어
+az_AZ_#Cyrl, 아제르바이잔어
+az__#Latn, 아제르바이잔어
+az_AZ_#Latn, 아제르바이잔어
+bas, 바사어
+bas_CM, 바사어
+be, 벨라루스어
+be_BY, 벨라루스어
+bem, 벰바어
+bem_ZM, 벰바어
+bez, 베나어
+bez_TZ, 베나어
+bg, 불가리아어
+bg_BG, 불가리아어
+bm, 밤바라어
+bm_ML, 밤바라어
+bn, 벵골어
+bn_BD, 벵골어
+bn_IN, 벵골어
+bo, 티베트어
+bo_CN, 티베트어
+bo_IN, 티베트어
+br, 브르타뉴어
+br_FR, 브르타뉴어
+brx, 보도어
+brx_IN, 보도어
+bs, 보스니아어
+bs__#Cyrl, 보스니아어
+bs_BA_#Cyrl, 보스니아어
+bs__#Latn, 보스니아어
+bs_BA_#Latn, 보스니아어
+ca, 카탈로니아어
+ca_AD, 카탈로니아어
+ca_ES, 카탈로니아어
+ca_FR, 카탈로니아어
+ca_IT, 카탈로니아어
+ccp, 차크마어
+ccp_BD, 차크마어
+ccp_IN, 차크마어
+ce, 체첸어
+ce_RU, 체첸어
+ceb, 세부아노어
+ceb_PH, 세부아노어
+cgg, 치가어
+cgg_UG, 치가어
+chr, 체로키어
+chr_US, 체로키어
+ckb, 소라니 쿠르드어
+ckb_IQ, 소라니 쿠르드어
+ckb_IR, 소라니 쿠르드어
+cs, 체코어
+cs_CZ, 체코어
+cy, 웨일스어
+cy_GB, 웨일스어
+da, 덴마크어
+da_DK, 덴마크어
+da_GL, 덴마크어
+dav, 타이타어
+dav_KE, 타이타어
+de, 독일어
+de_AT, 독일어
+de_BE, 독일어
+de_CH, 독일어
+de_DE, 독일어
+de_IT, 독일어
+de_LI, 독일어
+de_LU, 독일어
+dje, 자르마어
+dje_NE, 자르마어
+doi, 도그리어
+doi_IN, 도그리어
+dsb, 저지 소르비아어
+dsb_DE, 저지 소르비아어
+dua, 두알라어
+dua_CM, 두알라어
+dyo, 졸라 포니어
+dyo_SN, 졸라 포니어
+dz, 종카어
+dz_BT, 종카어
+ebu, 엠부어
+ebu_KE, 엠부어
+ee, 에웨어
+ee_GH, 에웨어
+ee_TG, 에웨어
+el, 그리스어
+el_CY, 그리스어
+el_GR, 그리스어
+en, 영어
+en_001, 영어
+en_150, 영어
+en_AE, 영어
+en_AG, 영어
+en_AI, 영어
+en_AS, 영어
+en_AT, 영어
+en_AU, 영어
+en_BB, 영어
+en_BE, 영어
+en_BI, 영어
+en_BM, 영어
+en_BS, 영어
+en_BW, 영어
+en_BZ, 영어
+en_CA, 영어
+en_CC, 영어
+en_CH, 영어
+en_CK, 영어
+en_CM, 영어
+en_CX, 영어
+en_CY, 영어
+en_DE, 영어
+en_DG, 영어
+en_DI, 영어
+en_DK, 영어
+en_DM, 영어
+en_ER, 영어
+en_FI, 영어
+en_FJ, 영어
+en_FK, 영어
+en_FM, 영어
+en_GB, 영어
+en_GD, 영어
+en_GG, 영어
+en_GH, 영어
+en_GI, 영어
+en_GM, 영어
+en_GU, 영어
+en_GY, 영어
+en_HK, 영어
+en_IE, 영어
+en_IL, 영어
+en_IM, 영어
+en_IN, 영어
+en_IO, 영어
+en_JE, 영어
+en_JM, 영어
+en_KE, 영어
+en_KI, 영어
+en_KN, 영어
+en_KY, 영어
+en_LC, 영어
+en_LR, 영어
+en_LS, 영어
+en_MG, 영어
+en_MH, 영어
+en_MO, 영어
+en_MP, 영어
+en_MS, 영어
+en_MT, 영어
+en_MU, 영어
+en_MV, 영어
+en_MW, 영어
+en_MY, 영어
+en_NA, 영어
+en_NF, 영어
+en_NG, 영어
+en_NL, 영어
+en_NR, 영어
+en_NU, 영어
+en_NZ, 영어
+en_PG, 영어
+en_PH, 영어
+en_PK, 영어
+en_PN, 영어
+en_PR, 영어
+en_PW, 영어
+en_RW, 영어
+en_SB, 영어
+en_SC, 영어
+en_SD, 영어
+en_SE, 영어
+en_SG, 영어
+en_SH, 영어
+en_SI, 영어
+en_SL, 영어
+en_SS, 영어
+en_SX, 영어
+en_SZ, 영어
+en_TC, 영어
+en_TK, 영어
+en_TO, 영어
+en_TT, 영어
+en_TV, 영어
+en_TZ, 영어
+en_UG, 영어
+en_UM, 영어
+en_US, 영어
+en_US_POSIX, 영어
+en_VC, 영어
+en_VG, 영어
+en_VI, 영어
+en_VU, 영어
+en_WS, 영어
+en_XA, 영어
+en_ZA, 영어
+en_ZG, 영어
+en_ZM, 영어
+en_ZW, 영어
+eo, 에스페란토어
+eo_001, 에스페란토어
+es, 스페인어
+es_419, 스페인어
+es_AR, 스페인어
+es_BO, 스페인어
+es_BR, 스페인어
+es_BZ, 스페인어
+es_CL, 스페인어
+es_CO, 스페인어
+es_CR, 스페인어
+es_CU, 스페인어
+es_DO, 스페인어
+es_EA, 스페인어
+es_EC, 스페인어
+es_ES, 스페인어
+es_GQ, 스페인어
+es_GT, 스페인어
+es_HN, 스페인어
+es_IC, 스페인어
+es_MX, 스페인어
+es_NI, 스페인어
+es_PA, 스페인어
+es_PE, 스페인어
+es_PH, 스페인어
+es_PR, 스페인어
+es_PY, 스페인어
+es_SV, 스페인어
+es_US, 스페인어
+es_UY, 스페인어
+es_VE, 스페인어
+et, 에스토니아어
+et_EE, 에스토니아어
+eu, 바스크어
+eu_ES, 바스크어
+ewo, 이원도어
+ewo_CM, 이원도어
+fa, 페르시아어
+fa_AF, 페르시아어
+fa_IR, 페르시아어
+ff, 풀라어
+ff__#Adlm, 풀라어
+ff_BF_#Adlm, 풀라어
+ff_CM_#Adlm, 풀라어
+ff_GH_#Adlm, 풀라어
+ff_GM_#Adlm, 풀라어
+ff_GN_#Adlm, 풀라어
+ff_GW_#Adlm, 풀라어
+ff_LR_#Adlm, 풀라어
+ff_MR_#Adlm, 풀라어
+ff_NE_#Adlm, 풀라어
+ff_NG_#Adlm, 풀라어
+ff_SL_#Adlm, 풀라어
+ff_SN_#Adlm, 풀라어
+ff__#Latn, 풀라어
+ff_BF_#Latn, 풀라어
+ff_CM_#Latn, 풀라어
+ff_GH_#Latn, 풀라어
+ff_GM_#Latn, 풀라어
+ff_GN_#Latn, 풀라어
+ff_GW_#Latn, 풀라어
+ff_LR_#Latn, 풀라어
+ff_MR_#Latn, 풀라어
+ff_NE_#Latn, 풀라어
+ff_NG_#Latn, 풀라어
+ff_SL_#Latn, 풀라어
+ff_SN_#Latn, 풀라어
+fi, 핀란드어
+fi_FI, 핀란드어
+fil, 필리핀어
+fil_PH, 필리핀어
+fo, 페로어
+fo_DK, 페로어
+fo_FO, 페로어
+fr, 프랑스어
+fr_BE, 프랑스어
+fr_BF, 프랑스어
+fr_BI, 프랑스어
+fr_BJ, 프랑스어
+fr_BL, 프랑스어
+fr_CA, 프랑스어
+fr_CD, 프랑스어
+fr_CF, 프랑스어
+fr_CG, 프랑스어
+fr_CH, 프랑스어
+fr_CI, 프랑스어
+fr_CM, 프랑스어
+fr_DJ, 프랑스어
+fr_DZ, 프랑스어
+fr_FR, 프랑스어
+fr_GA, 프랑스어
+fr_GF, 프랑스어
+fr_GN, 프랑스어
+fr_GP, 프랑스어
+fr_GQ, 프랑스어
+fr_HT, 프랑스어
+fr_KM, 프랑스어
+fr_LU, 프랑스어
+fr_MA, 프랑스어
+fr_MC, 프랑스어
+fr_MF, 프랑스어
+fr_MG, 프랑스어
+fr_ML, 프랑스어
+fr_MQ, 프랑스어
+fr_MR, 프랑스어
+fr_MU, 프랑스어
+fr_NC, 프랑스어
+fr_NE, 프랑스어
+fr_PF, 프랑스어
+fr_PM, 프랑스어
+fr_RE, 프랑스어
+fr_RW, 프랑스어
+fr_SC, 프랑스어
+fr_SN, 프랑스어
+fr_SY, 프랑스어
+fr_TD, 프랑스어
+fr_TG, 프랑스어
+fr_TN, 프랑스어
+fr_VU, 프랑스어
+fr_WF, 프랑스어
+fr_YT, 프랑스어
+fur, 프리울리어
+fur_IT, 프리울리어
+fy, 서부 프리지아어
+fy_NL, 서부 프리지아어
+ga, 아일랜드어
+ga_GB, 아일랜드어
+ga_IE, 아일랜드어
+gd, 스코틀랜드 게일어
+gd_GB, 스코틀랜드 게일어
+gl, 갈리시아어
+gl_ES, 갈리시아어
+gsw, 독일어(스위스)
+gsw_CH, 독일어(스위스)
+gsw_FR, 독일어(스위스)
+gsw_LI, 독일어(스위스)
+gu, 구자라트어
+gu_IN, 구자라트어
+guz, 구시어
+guz_KE, 구시어
+gv, 맹크스어
+gv_IM, 맹크스어
+ha, 하우사어
+ha_GH, 하우사어
+ha_NE, 하우사어
+ha_NG, 하우사어
+haw, 하와이어
+haw_US, 하와이어
+iw, 히브리어
+iw_IL, 히브리어
+hi, 힌디어
+hi_IN, 힌디어
+hr, 크로아티아어
+hr_BA, 크로아티아어
+hr_HR, 크로아티아어
+hsb, 고지 소르비아어
+hsb_DE, 고지 소르비아어
+hu, 헝가리어
+hu_HU, 헝가리어
+hy, 아르메니아어
+hy_AM, 아르메니아어
+ia, 인터링구아
+ia_001, 인터링구아
+in, 인도네시아어
+in_ID, 인도네시아어
+ig, 이그보어
+ig_NG, 이그보어
+ii, 쓰촨 이어
+ii_CN, 쓰촨 이어
+is, 아이슬란드어
+is_IS, 아이슬란드어
+it, 이탈리아어
+it_CH, 이탈리아어
+it_IT, 이탈리아어
+it_SM, 이탈리아어
+it_VA, 이탈리아어
+ja, 일본어
+ja_JP, 일본어
+jgo, 응곰바어
+jgo_CM, 응곰바어
+jmc, 마차메어
+jmc_TZ, 마차메어
+jv, 자바어
+jv_ID, 자바어
+ka, 조지아어
+ka_GE, 조지아어
+kab, 커바일어
+kab_DZ, 커바일어
+kam, 캄바어
+kam_KE, 캄바어
+kde, 마콘데어
+kde_TZ, 마콘데어
+kea, 크리올어
+kea_CV, 크리올어
+khq, 코이라 친니어
+khq_ML, 코이라 친니어
+ki, 키쿠유어
+ki_KE, 키쿠유어
+kk, 카자흐어
+kk_KZ, 카자흐어
+kkj, 카코어
+kkj_CM, 카코어
+kl, 그린란드어
+kl_GL, 그린란드어
+kln, 칼렌진어
+kln_KE, 칼렌진어
+km, 크메르어
+km_KH, 크메르어
+kn, 칸나다어
+kn_IN, 칸나다어
+ko, 한국어
+ko_KP, 한국어
+ko_KR, 한국어
+kok, 코카니어
+kok_IN, 코카니어
+ks, 카슈미르어
+ks__#Arab, 카슈미르어
+ks_IN_#Arab, 카슈미르어
+ksb, 샴발라어
+ksb_TZ, 샴발라어
+ksf, 바피아어
+ksf_CM, 바피아어
+ksh, 콜로그니안어
+ksh_DE, 콜로그니안어
+ku, 쿠르드어
+ku_TR, 쿠르드어
+kw, 콘월어
+kw_GB, 콘월어
+ky, 키르기스어
+ky_KG, 키르기스어
+lag, 랑기어
+lag_TZ, 랑기어
+lb, 룩셈부르크어
+lb_LU, 룩셈부르크어
+lg, 간다어
+lg_UG, 간다어
+lkt, 라코타어
+lkt_US, 라코타어
+ln, 링갈라어
+ln_AO, 링갈라어
+ln_CD, 링갈라어
+ln_CF, 링갈라어
+ln_CG, 링갈라어
+lo, 라오어
+lo_LA, 라오어
+lrc, 북부 루리어
+lrc_IQ, 북부 루리어
+lrc_IR, 북부 루리어
+lt, 리투아니아어
+lt_LT, 리투아니아어
+lu, 루바-카탄가어
+lu_CD, 루바-카탄가어
+luo, 루오어
+luo_KE, 루오어
+luy, 루야어
+luy_KE, 루야어
+lv, 라트비아어
+lv_LV, 라트비아어
+mai, 마이틸리어
+mai_IN, 마이틸리어
+mas, 마사이어
+mas_KE, 마사이어
+mas_TZ, 마사이어
+mer, 메루어
+mer_KE, 메루어
+mfe, 모리스얀어
+mfe_MU, 모리스얀어
+mg, 말라가시어
+mg_MG, 말라가시어
+mgh, 마크후와-메토어
+mgh_MZ, 마크후와-메토어
+mgo, 메타어
+mgo_CM, 메타어
+mi, 마오리어
+mi_NZ, 마오리어
+mk, 마케도니아어
+mk_MK, 마케도니아어
+ml, 말라얄람어
+ml_IN, 말라얄람어
+mn, 몽골어
+mn_MN, 몽골어
+mni, 마니푸리어
+mni__#Beng, 마니푸리어
+mni_IN_#Beng, 마니푸리어
+mr, 마라티어
+mr_IN, 마라티어
+ms, 말레이어
+ms_BN, 말레이어
+ms_ID, 말레이어
+ms_MY, 말레이어
+ms_SG, 말레이어
+mt, 몰타어
+mt_MT, 몰타어
+mua, 문당어
+mua_CM, 문당어
+my, 버마어
+my_MM, 버마어
+my_ZG, 버마어
+mzn, 마잔데라니어
+mzn_IR, 마잔데라니어
+naq, 나마어
+naq_NA, 나마어
+nb, 노르웨이어(보크말)
+nb_NO, 노르웨이어(보크말)
+nb_SJ, 노르웨이어(보크말)
+nd, 북부 은데벨레어
+nd_ZW, 북부 은데벨레어
+ne, 네팔어
+ne_IN, 네팔어
+ne_NP, 네팔어
+nl, 네덜란드어
+nl_AW, 네덜란드어
+nl_BE, 네덜란드어
+nl_BQ, 네덜란드어
+nl_CW, 네덜란드어
+nl_NL, 네덜란드어
+nl_SR, 네덜란드어
+nl_SX, 네덜란드어
+nmg, 크와시오어
+nmg_CM, 크와시오어
+nn, 노르웨이어(니노르스크)
+nn_NO, 노르웨이어(니노르스크)
+nnh, 느기엠본어
+nnh_CM, 느기엠본어
+no, 노르웨이어
+nus, 누에르어
+nus_SS, 누에르어
+nyn, 니안콜어
+nyn_UG, 니안콜어
+om, 오로모어
+om_ET, 오로모어
+om_KE, 오로모어
+or, 오리야어
+or_IN, 오리야어
+os, 오세트어
+os_GE, 오세트어
+os_RU, 오세트어
+pa, 펀잡어
+pa__#Arab, 펀잡어
+pa_PK_#Arab, 펀잡어
+pa__#Guru, 펀잡어
+pa_IN_#Guru, 펀잡어
+pcm, 나이지리아 피진어
+pcm_NG, 나이지리아 피진어
+pl, 폴란드어
+pl_PL, 폴란드어
+pl_SP, 폴란드어
+ps, 파슈토어
+ps_AF, 파슈토어
+ps_PK, 파슈토어
+pt, 포르투갈어
+pt_AO, 포르투갈어
+pt_BR, 포르투갈어
+pt_CH, 포르투갈어
+pt_CV, 포르투갈어
+pt_GQ, 포르투갈어
+pt_GW, 포르투갈어
+pt_LU, 포르투갈어
+pt_MO, 포르투갈어
+pt_MZ, 포르투갈어
+pt_PT, 포르투갈어
+pt_ST, 포르투갈어
+pt_TL, 포르투갈어
+qu, 케추아어
+qu_BO, 케추아어
+qu_EC, 케추아어
+qu_PE, 케추아어
+rm, 로만시어
+rm_CH, 로만시어
+rn, 룬디어
+rn_BI, 룬디어
+ro, 루마니아어
+ro_MD, 루마니아어
+ro_RO, 루마니아어
+rof, 롬보어
+rof_TZ, 롬보어
+ru, 러시아어
+ru_BY, 러시아어
+ru_KG, 러시아어
+ru_KZ, 러시아어
+ru_MD, 러시아어
+ru_RU, 러시아어
+ru_UA, 러시아어
+rw, 르완다어
+rw_RW, 르완다어
+rwk, 르와어
+rwk_TZ, 르와어
+sa, 산스크리트어
+sa_IN, 산스크리트어
+sah, 야쿠트어
+sah_RU, 야쿠트어
+saq, 삼부루어
+saq_KE, 삼부루어
+sat, 산탈리어
+sat__#Olck, 산탈리어
+sat_IN_#Olck, 산탈리어
+sbp, 상구어
+sbp_TZ, 상구어
+sc, 사르디니아어
+sc_IT, 사르디니아어
+sd, 신디어
+sd__#Arab, 신디어
+sd_PK_#Arab, 신디어
+sd__#Deva, 신디어
+sd_IN_#Deva, 신디어
+se, 북부 사미어
+se_FI, 북부 사미어
+se_NO, 북부 사미어
+se_SE, 북부 사미어
+seh, 세나어
+seh_MZ, 세나어
+ses, 코이야보로 세니어
+ses_ML, 코이야보로 세니어
+sg, 산고어
+sg_CF, 산고어
+shi, 타셸히트어
+shi__#Latn, 타셸히트어
+shi_MA_#Latn, 타셸히트어
+shi__#Tfng, 타셸히트어
+shi_MA_#Tfng, 타셸히트어
+si, 싱할라어
+si_LK, 싱할라어
+sk, 슬로바키아어
+sk_SK, 슬로바키아어
+sl, 슬로베니아어
+sl_SI, 슬로베니아어
+smn, 이나리 사미어
+smn_FI, 이나리 사미어
+sn, 쇼나어
+sn_ZW, 쇼나어
+so, 소말리아어
+so_DJ, 소말리아어
+so_ET, 소말리아어
+so_KE, 소말리아어
+so_SO, 소말리아어
+sq, 알바니아어
+sq_AL, 알바니아어
+sq_MK, 알바니아어
+sq_XK, 알바니아어
+sr, 세르비아어
+sr__#Cyrl, 세르비아어
+sr_BA_#Cyrl, 세르비아어
+sr_ME_#Cyrl, 세르비아어
+sr_RS_#Cyrl, 세르비아어
+sr_XK_#Cyrl, 세르비아어
+sr__#Latn, 세르비아어
+sr_BA_#Latn, 세르비아어
+sr_ME_#Latn, 세르비아어
+sr_RS_#Latn, 세르비아어
+sr_XK_#Latn, 세르비아어
+su, 순다어
+su__#Latn, 순다어
+su_ID_#Latn, 순다어
+sv, 스웨덴어
+sv_AX, 스웨덴어
+sv_FI, 스웨덴어
+sv_SE, 스웨덴어
+sw, 스와힐리어
+sw_CD, 스와힐리어
+sw_KE, 스와힐리어
+sw_TZ, 스와힐리어
+sw_UG, 스와힐리어
+ta, 타밀어
+ta_IN, 타밀어
+ta_LK, 타밀어
+ta_MY, 타밀어
+ta_SG, 타밀어
+te, 텔루구어
+te_IN, 텔루구어
+teo, 테조어
+teo_KE, 테조어
+teo_UG, 테조어
+tg, 타지크어
+tg_TJ, 타지크어
+th, 태국어
+th_TH, 태국어
+ti, 티그리냐어
+ti_ER, 티그리냐어
+ti_ET, 티그리냐어
+tk, 투르크멘어
+tk_TM, 투르크멘어
+to, 통가어
+to_TO, 통가어
+tr, 터키어
+tr_CY, 터키어
+tr_TR, 터키어
+tt, 타타르어
+tt_RU, 타타르어
+twq, 타사와크어
+twq_NE, 타사와크어
+tzm, 중앙 모로코 타마지트어
+tzm_MA, 중앙 모로코 타마지트어
+ug, 위구르어
+ug_CN, 위구르어
+uk, 우크라이나어
+uk_UA, 우크라이나어
+ur, 우르두어
+ur_IN, 우르두어
+ur_PK, 우르두어
+uz, 우즈베크어
+uz__#Arab, 우즈베크어
+uz_AF_#Arab, 우즈베크어
+uz__#Cyrl, 우즈베크어
+uz_UZ_#Cyrl, 우즈베크어
+uz__#Latn, 우즈베크어
+uz_UZ_#Latn, 우즈베크어
+vai, 바이어
+vai__#Latn, 바이어
+vai_LR_#Latn, 바이어
+vai__#Vaii, 바이어
+vai_LR_#Vaii, 바이어
+vi, 베트남어
+vi_VN, 베트남어
+vun, 분조어
+vun_TZ, 분조어
+wae, 월저어
+wae_CH, 월저어
+wo, 월로프어
+wo_SN, 월로프어
+xh, 코사어
+xh_ZA, 코사어
+xog, 소가어
+xog_UG, 소가어
+yav, 양본어
+yav_CM, 양본어
+ji, 이디시어
+ji_001, 이디시어
+yo, 요루바어
+yo_BJ, 요루바어
+yo_NG, 요루바어
+yue, 광둥어
+yue__#Hans, 광둥어
+yue_CN_#Hans, 광둥어
+yue__#Hant, 광둥어
+yue_HK_#Hant, 광둥어
+zgh, 표준 모로코 타마지트어
+zgh_MA, 표준 모로코 타마지트어
+zh, 중국어
+zh__#Hans, 중국어
+zh_CN_#Hans, 중국어
+zh_HK_#Hans, 중국어
+zh_MO_#Hans, 중국어
+zh_SG_#Hans, 중국어
+zh__#Hant, 중국어
+zh_HK_#Hant, 중국어
+zh_MO_#Hant, 중국어
+zh_TW_#Hant, 중국어
+zu, 줄루어
+zu_ZA, 줄루어
+
+
+
+-----------------------------------------------------
+Supported
+-----------------------------------------------------
+gl_ES, // 갈리시아어
+gu_IN, // 구자라트어
+el_CY, // 그리스어
+nl_NL, // 네덜란드어
+
+no_??, // 노르웨이어
+
+da_DK, // 덴마크어
+de_DE, // 독일어
+lv_LV, // 라트비아어
+ru_RU, // 러시아어
+ro_RO, // 루마니아어
+lt_LT, // 리투아니아어
+mr_IN, // 마라티어
+mk_MK, // 마케도니아어
+ms_MY, // 말레이어
+mt_MT, // 몰타어
+vi_VN, // 베트남어
+be_BY, // 벨라루스어
+bn_BD, // 벵골어
+bg_BG, // 불가리아어
+sw_KE, // 스와힐리어
+sv_SE, // 스웨덴어
+es_ES, // 스페인어
+sk_SK, // 슬로바키아어
+sl_SI, // 슬로베니아어
+ar_AE, // 아랍어
+is_IS, // 아이슬란드어
+
+ht_??, // 아이티어
+
+ga_IE, // 아일랜드어
+af_NA, // 아프리칸스어
+sq_AL, // 알바니아어
+et_EE, // 에스토니아어
+eo_001, // 에스페란토어
+en_US, // 영어
+ur_PK, // 우르두어
+uk_UA, // 우크라이나어
+cy_GB, // 웨일스어
+it_IT, // 이탈리아어
+
+id?   in_ID, // 인도네시아어
+
+ja, // 일본어
+ka_GE, // 조지아어
+zh_CN_#Hans, // 중국어
+cs_CZ, // 체코어
+ca_AD, // 카탈로니아어
+kn_IN, // 칸나다어
+hr_HR, // 크로아티아어
+
+tl_??, // 타칼로그어
+
+ta_IN, // 타밀어
+th_TH, // 태국어
+tr_TR, // 터키어
+te_IN, // 텔루구어
+fa_IR, // 페르시아어
+pt_PT, // 포르투갈어
+pl_PL, // 폴란드어
+fr_FR, // 프랑스어
+fi_FI, // 핀란드어
+ko_KR, // 한국어
+hu_HU, // 헝가리어
+
+he?   iw_IL, // 히브리어
+
+hi_IN, // 힌디어
+
+
+
+
+
+_EOF_

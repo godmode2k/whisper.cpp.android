@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    >
+    <!--
+    android:minHeight="?android:attr/listPreferredItemHeightLarge"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    tools:context=".MainActivity"
+    -->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/TextView_status"
+        android:textSize="20dp"
+        android:gravity="left"
+        />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/ListView_download_translation_model"
+        android:layout_weight="1"
+        />
+</LinearLayout>
